@@ -44,6 +44,14 @@ Desenvolvimento Web · Frontend · Backend
 
 
 
+## 🟩 Histórico de Contribuições
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/Yurii0604" alt="GitHub Contributions" width="100%" />
+
+</div>
+
 
 
 ## 🎯 Objetivos
