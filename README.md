@@ -2,7 +2,7 @@
 
 # Olá! Sou o Yurii 👋
 
-### Web Developer Student | TPSI
+### Estudante de TPSI | Web Development
 
 Desenvolvimento Web · Frontend · Backend
 
@@ -15,49 +15,32 @@ Desenvolvimento Web · Frontend · Backend
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de Tecnologias e Programação de Sistemas de Informação no ISPGAYA.
-- 🌐 Interessado no desenvolvimento de aplicações e plataformas web.
+- 🌐 Interessado no desenvolvimento web e criação de aplicações.
 - 💻 A desenvolver competências em Frontend e Backend.
-- 🚀 Gosto de aprender novas tecnologias e criar projetos práticos.
-- 🎯 À procura de uma oportunidade de estágio na área de Web Development.
+- 🚀 Motivado para aprender novas tecnologias e melhorar continuamente.
+- 🎯 À procura de oportunidades para desenvolver competências na área de Web Development.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Frontend
+**Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Backend e Bases de Dados
+**Backend e Bases de Dados**
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
-### Ferramentas
+**Ferramentas**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-## 🚀 Projetos
-
-### 🐾 Adotar — Plataforma de Adoção de Animais
-
-Projeto de desenvolvimento web dedicado à divulgação e adoção de animais.
-
-**Objetivos:**
-- Apresentar animais disponíveis para adoção.
-- Criar uma interface simples e intuitiva.
-- Organizar informações sobre os animais.
-- Desenvolver páginas de apresentação e contacto.
-- Explorar a integração entre Frontend e Backend.
-
-**Tecnologias:** HTML · CSS · JavaScript · PHP · SQL
 
 ---
 
@@ -90,10 +73,10 @@ Projeto de desenvolvimento web dedicado à divulgação e adoção de animais.
 ## 🎯 Objetivos
 
 - Aprofundar conhecimentos em desenvolvimento Frontend e Backend.
-- Melhorar as minhas competências em HTML, CSS e JavaScript.
-- Aprender e desenvolver aplicações com PHP e SQL.
-- Criar projetos web funcionais e modernos.
-- Ganhar experiência profissional na área de desenvolvimento web.
+- Melhorar competências em HTML, CSS e JavaScript.
+- Desenvolver conhecimentos em PHP e SQL.
+- Explorar novas tecnologias e ferramentas.
+- Evoluir como programador e ganhar experiência profissional na área de IT.
 
 ---
 
@@ -101,6 +84,6 @@ Projeto de desenvolvimento web dedicado à divulgação e adoção de animais.
 
 ### Obrigado pela visita! 👋
 
-**Always learning. Always building.**
+**Always learning. Always improving.**
 
 </div>
