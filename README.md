@@ -44,23 +44,6 @@ Desenvolvimento Web · Frontend · Backend
 
 
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurii0604&theme=tokyonight" width="100%" />
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yurii0604&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurii0604&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yurii0604&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 ## 🎯 Objetivos
